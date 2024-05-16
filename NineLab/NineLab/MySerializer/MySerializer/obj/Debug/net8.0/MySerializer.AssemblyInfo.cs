@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Лр9_1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MySerializer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+555530d052335328ead94907a2e99aac9209bdc1")]
-[assembly: System.Reflection.AssemblyProductAttribute("Лр9_1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Лр9_1")]
+[assembly: System.Reflection.AssemblyProductAttribute("MySerializer")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MySerializer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
